@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaustav2706/Kaustav2706/main/profile.jpg" width="180" alt="Kaustav Halder" />
+  <img src="https://raw.githubusercontent.com/Kaustav2706/Kaustav2706/main/profile.jpeg" width="180" alt="Kaustav Halder" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaustav Halder</h1>
