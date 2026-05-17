@@ -56,7 +56,7 @@ Sports turf reservation platform where users can browse available slots, book gr
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Kaustav2706
-- LinkedIn: (https://www.linkedin.com/in/kaustav-halder-836904374/)
+- LinkedIn: https://www.linkedin.com/in/kaustav-halder-836904374/
 - Email: kaustavhalder2706@gmail.com
 - Portfolio : https://portfolio-web-one-dusky.vercel.app/
 - Location : Kolkata, West Bengal
