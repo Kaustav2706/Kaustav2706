@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kaustav Halder</h1>
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | Open Source Enthusiast</h3>
 
-# Hi there 👋, I'm Kaustav Halder
+
 
 🎓 B.Tech CSE Student at Manipal University Jaipur  
 💻 Passionate about Full Stack Development, AI, and Open Source  
