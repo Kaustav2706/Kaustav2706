@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kaustav Halder</h1>
-<h3 align="center">B.Tech CSE Student | Full Stack Developer | Open Source Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Full Stack Developer | Open Source Contributor</h3>
 
 
 
